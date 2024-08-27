@@ -2,9 +2,9 @@
 
 ## Datos Personales
 
-**Nombre**: Francisco Javier Gonzalez Hernandez
+**Nombre**: Francisco Javier González Hernández
 
-**Edad**: 22 Anos
+**Edad**: 22 Años
 
 **Fotografia**: 
 
